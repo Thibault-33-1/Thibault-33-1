@@ -1,7 +1,7 @@
 Hello,
 
 my name is thibault "something", i live in Lyon city in France.
-I learned coding as an autodidact. My main langage is C99, i learned also Python, perl, bash, a bit of powershell, asm x86 on linux 64bits, php, html, css and i guess that's all.
+I learned coding as an autodidact. My main langage is C99, i learned also Python, perl, bash/batch a bit of powershell, asm x86 on linux 64bits, php, html, css and i guess that's all.
 I learned GTK2.0, Winapi32, and some softwares needed for exemple web dev like wamp (linux). I'am not sure the list is complet, but well no matter won't make the full list.
 Best thing is to code projects and try to make them as best i can.
 
